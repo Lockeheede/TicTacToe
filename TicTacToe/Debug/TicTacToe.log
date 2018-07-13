@@ -1,0 +1,67 @@
+﻿  TicTacToe.cpp
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(198): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(199): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(221): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(222): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(224): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(225): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(251): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(258): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(262): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(263): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(277): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(278): error C2050: switch expression not integral
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(280): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(321): error C2065: 'wins': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(321): error C2660: 'GetCellRect': function does not take 2 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(323): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(323): error C2065: 'hbr1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(323): error C2065: 'hbr2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(323): error C2660: 'FillRect': function does not take 2 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(324): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(324): error C2065: 'hIcon1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(324): error C2065: 'hIcon2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(324): error C2660: 'DrawIconCentered': function does not take 2 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(338): error C2065: 'hIcon1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(339): error C2065: 'hIcon2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(340): error C2065: 'hbr1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(341): error C2065: 'hbr2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(356): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(357): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(358): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(388): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(404): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(406): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(406): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(408): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(408): error C2065: 'hIcon2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(408): error C2065: 'hIcon1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(408): error C2660: 'DrawIconCentered': function does not take 2 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(412): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(412): error C2065: 'wins': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(413): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(421): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(422): error C2660: 'MessageBoxW': function does not take 3 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(424): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(426): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(434): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(438): error C2065: 'winner': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(440): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(459): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(460): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(493): error C2065: 'hIcon1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(498): error C2065: 'hIcon2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(505): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(505): error C2660: 'DrawLine': function does not take 3 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(507): error C2065: 'CELL_SIZE': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(507): error C2660: 'DrawLine': function does not take 3 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(510): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(511): error C2065: 'gameBoard': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(513): error C2065: 'playerTurn': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(513): error C2065: 'hIcon2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(513): error C2065: 'hIcon1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(513): error C2660: 'DrawIconCentered': function does not take 2 arguments
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(528): error C2065: 'hbr1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(529): error C2065: 'hbr2': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(530): error C2065: 'hIcon1': undeclared identifier
+f:\c++ tutorials\tictactoe\tictactoe\tictactoe.cpp(531): error C2065: 'hIcon2': undeclared identifier
